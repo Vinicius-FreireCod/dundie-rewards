@@ -12,3 +12,5 @@ setup(
             "dundie = dundie.__main__:main"
         ]
     }
+)
+
